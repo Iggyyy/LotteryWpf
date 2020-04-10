@@ -1,0 +1,12 @@
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\obj\Debug\PersonLib.csprojAssemblyReference.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\obj\Debug\PersonLib.csproj.CoreCompileInputs.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\bin\Debug\PersonLib.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\bin\Debug\PersonLib.pdb
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\bin\Debug\Dapper.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\bin\Debug\Dapper.xml
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\obj\Debug\PersonLib.csproj.CopyComplete
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\obj\Debug\PersonLib.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLib\obj\Debug\PersonLib.pdb

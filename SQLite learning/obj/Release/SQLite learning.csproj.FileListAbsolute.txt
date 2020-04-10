@@ -1,0 +1,25 @@
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Release\DemoDb.db
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Release\SQLite learning.exe.config
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Release\SQLite learning.exe
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Release\SQLite learning.pdb
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Release\PersonLib.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Release\System.Data.SQLite.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Release\Dapper.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Release\PersonLib.pdb
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Release\System.Data.SQLite.xml
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Release\Dapper.xml
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\SQLite learning.csprojAssemblyReference.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\MainWindow.g.cs
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\App.g.cs
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\SQLite learning_Content.g.cs
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\SQLite learning_MarkupCompile.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\SQLite learning_MarkupCompile.lref
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\MainWindow.baml
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\SQLite learning.g.resources
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\SQLite_learning.Properties.Resources.resources
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\SQLite learning.csproj.GenerateResource.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\SQLite learning.csproj.CoreCompileInputs.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\SQLite learning.csproj.CopyComplete
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\SQLite learning.exe
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Release\SQLite learning.pdb

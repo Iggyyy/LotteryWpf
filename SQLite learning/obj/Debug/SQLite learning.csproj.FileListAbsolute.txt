@@ -1,0 +1,25 @@
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Debug\SQLite learning.exe.config
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Debug\SQLite learning.exe
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Debug\SQLite learning.pdb
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\SQLite learning.csprojAssemblyReference.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\MainWindow.g.cs
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\App.g.cs
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\SQLite learning_MarkupCompile.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\SQLite learning_MarkupCompile.lref
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\MainWindow.baml
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\SQLite learning.g.resources
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\SQLite_learning.Properties.Resources.resources
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\SQLite learning.csproj.GenerateResource.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\SQLite learning.csproj.CoreCompileInputs.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\SQLite learning.exe
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\SQLite learning.pdb
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\SQLite learning.csproj.CopyComplete
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Debug\DemoDb.db
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\obj\Debug\SQLite learning_Content.g.cs
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Debug\PersonLib.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Debug\Dapper.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Debug\PersonLib.pdb
+C:\Users\Ignacy\source\repos\SQLite learning solution\SQLite learning\bin\Debug\Dapper.xml

@@ -1,0 +1,9 @@
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLibrary\bin\Debug\netstandard2.0\PersonLibrary.deps.json
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLibrary\bin\Debug\netstandard2.0\PersonLibrary.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLibrary\bin\Debug\netstandard2.0\PersonLibrary.pdb
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLibrary\obj\Debug\netstandard2.0\PersonLibrary.AssemblyInfoInputs.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLibrary\obj\Debug\netstandard2.0\PersonLibrary.AssemblyInfo.cs
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLibrary\obj\Debug\netstandard2.0\PersonLibrary.dll
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLibrary\obj\Debug\netstandard2.0\PersonLibrary.pdb
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLibrary\obj\Debug\netstandard2.0\PersonLibrary.csprojAssemblyReference.cache
+C:\Users\Ignacy\source\repos\SQLite learning solution\PersonLibrary\obj\Debug\netstandard2.0\PersonLibrary.csproj.CoreCompileInputs.cache
